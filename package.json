@@ -10,6 +10,13 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "Ariel Betti",
+    "asanCode",
+    "asan",
+    "asan theme",
+    "dark theme"
+  ],
   "contributes": {
     "themes": [
       {
