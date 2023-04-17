@@ -74,7 +74,7 @@
 		"editor.findRangeHighlightBorder": "#0000",
 		"editor.focusedStackFrameHighlightBackground": "#817c9c26",
 		"editor.foldBackground": "#111216",
-		"editor.foreground": "#9898A2",
+		"editor.foreground": "#f0fdf4",
 		"editor.hoverHighlightBackground": "#0000",
 		"editor.inactiveSelectionBackground": "#817c9c14",
 		"editor.inlineValuesBackground": "#0000",
@@ -484,6 +484,14 @@
 			}
 		},
 		{
+			"scope": [
+				"constant.numeric",
+			],
+			"settings": {
+				"foreground": "#34d399"
+			}
+		},
+		{
 			"scope": ["entity.name"],
 			"settings": {
 				"foreground": "#FFD493"
@@ -589,7 +597,7 @@
 		{
 			"scope": ["storage.type", "storage.modifier"],
 			"settings": {
-				"foreground": "#c084fc"
+				"foreground": "#f0abfc"
 			}
 		},
 		{
@@ -632,13 +640,21 @@
 				"variable.argument"
 			],
 			"settings": {
+				"foreground": "#fb7185"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.readwrite",
+			],
+			"settings": {
 				"foreground": "#f43f5e"
 			}
 		},
 		{
 			"scope": ["variable.parameter"],
 			"settings": {
-				"foreground": "#da68fb"
+				"foreground": "#f472b6"
 			}
 		}
 	]
