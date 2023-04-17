@@ -6,6 +6,8 @@
   "engines": {
     "vscode": "^1.77.0"
   },
+  "publisher": "arielbetti",
+  "repository": "https://github.com/ArielBetti/asan-theme",
   "icon": "logo/theme-icon.png",
   "categories": [
     "Themes"
