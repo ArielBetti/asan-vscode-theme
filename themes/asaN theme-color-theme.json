@@ -67,7 +67,7 @@
 		"dropdown.border": "#817c9c26",
 		"dropdown.foreground": "#9898A2",
 		"dropdown.listBackground": "#111216",
-		"editor.background": "#09090B",
+		"editor.background": "#0F1014",
 		"editor.findMatchBackground": "#817c9c4d",
 		"editor.findMatchHighlightBackground": "#817c9c4d",
 		"editor.findRangeHighlightBackground": "#817c9c4d",
@@ -522,7 +522,7 @@
 		{
 			"scope": ["keyword"],
 			"settings": {
-				"foreground": "#5cc9f5"
+				"foreground": "#3b82f6"
 			}
 		},
 		{
@@ -589,13 +589,13 @@
 		{
 			"scope": ["storage.type", "storage.modifier"],
 			"settings": {
-				"foreground": "#5cc9f5"
+				"foreground": "#c084fc"
 			}
 		},
 		{
 			"scope": ["string"],
 			"settings": {
-				"foreground": "#3B82F6"
+				"foreground": "#a5b4fc"
 			}
 		},
 		{
@@ -632,7 +632,7 @@
 				"variable.argument"
 			],
 			"settings": {
-				"foreground": "#9898A2"
+				"foreground": "#f43f5e"
 			}
 		},
 		{
