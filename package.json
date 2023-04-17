@@ -2,7 +2,7 @@
   "name": "asan-theme",
   "displayName": "asan theme",
   "description": "This theme was made for aggressive software developers, the most beautiful, powerful and aggressive dark theme you could have",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.77.0"
   },
