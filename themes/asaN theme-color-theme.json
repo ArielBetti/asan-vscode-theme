@@ -565,7 +565,7 @@
 		{
 			"scope": ["punctuation"],
 			"settings": {
-				"foreground": "#686974"
+				"foreground": "#c4b5fd"
 			}
 		},
 		{
@@ -595,7 +595,7 @@
 		{
 			"scope": ["string"],
 			"settings": {
-				"foreground": "#a5b4fc"
+				"foreground": "#c7d2fe"
 			}
 		},
 		{
