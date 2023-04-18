@@ -697,7 +697,7 @@
       }
     },
     {
-      "scope": ["variable.other.property.tsx"],
+      "scope": ["variable.other.property"],
       "settings": {
         "foreground": "#c7d2fe"
       }
