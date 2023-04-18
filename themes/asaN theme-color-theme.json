@@ -16,7 +16,7 @@
 		"banner.foreground": "#9898A2",
 		"banner.iconForeground": "#686974",
 		"breadcrumb.activeSelectionForeground": "#FFD493",
-		"breadcrumb.background": "#09090B",
+		"breadcrumb.background": "#0F1014",
 		"breadcrumb.focusForeground": "#686974",
 		"breadcrumb.foreground": "#43444D",
 		"breadcrumbPicker.background": "#111216",
@@ -512,7 +512,7 @@
 		{
 			"scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
 			"settings": {
-				"foreground": "#d1fae5",
+				"foreground": "#00ffa2",
 				"fontStyle": "italic"
 			}
 		},
@@ -695,7 +695,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#00ffa2"
+        "foreground": "#60a5fa"
       }
     }
 	]
