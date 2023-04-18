@@ -463,7 +463,12 @@
 	},
 	"tokenColors": [
 		{
-			"scope": ["comment"],
+			"scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "unused.comment",
+        "wildcard.comment"
+      ],
 			"settings": {
 				"foreground": "#686974",
 				"fontStyle": "italic"
