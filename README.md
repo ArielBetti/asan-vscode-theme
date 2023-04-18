@@ -2,10 +2,8 @@
 ``` TypeScript
 // An aggressive theme for aggressive software engineers
 ```
-### React
-![Asan VS Code theme React](assets/screenFront.png)
-### Node with [ExpressoTS](https://github.com/expressots/expressots)
-![Asan VS Code theme React](assets/screenBack.png)
+### React | Node with [ExpressoTS](https://github.com/expressots/expressots)
+![Asan VS Code theme React](assets/screen.png)
 
 ## Install
 
