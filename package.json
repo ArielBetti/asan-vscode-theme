@@ -2,13 +2,13 @@
   "name": "asan-theme",
   "displayName": "asan theme",
   "description": "This theme was made for aggressive software developers, the most beautiful, powerful and aggressive dark theme you could have",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.77.0"
   },
   "publisher": "arielbetti",
   "repository": "https://github.com/ArielBetti/asan-theme",
-  "icon": "logo/theme-icon.png",
+  "icon": "assets/theme-icon.png",
   "categories": [
     "Themes"
   ],
