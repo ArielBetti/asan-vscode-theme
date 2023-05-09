@@ -2,7 +2,7 @@
   "name": "asan-theme",
   "displayName": "Asan Theme",
   "description": "This theme was made for aggressive software developers, the most beautiful, powerful and aggressive dark theme you could have",
-  "version": "0.0.13",
+  "version": "0.0.16",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -25,7 +25,12 @@
         "label": "asaN theme",
         "uiTheme": "vs-dark",
         "path": "./themes/asaN theme-color-theme.json"
-      }
+      },
+			{
+				"label": "Asan Soft",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Asan Soft.json"
+			}
     ]
   }
 }
